@@ -9,7 +9,7 @@ CreateConVar("NoTargetWhitelist", 0, FCVAR_ARCHIVE, "Enable or disable NoTargetW
 
 -- Add the usergroup to the list, quite simple.
 NoTarget.Whitelist = {
---  ["user"] = true,
+--  	["user"] = true,
 	["moderator"] = true,
 	["admin"] = true,
 	["superadmin"] = true,
