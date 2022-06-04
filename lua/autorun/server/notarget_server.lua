@@ -93,7 +93,7 @@ local function NoTargetActivate( commandPlayer, commandText )
 		end
 
 		net.Start("NoTargetNotify")
-		net.WriteString("No Target ".. (checkTarget and "Disabled", "Enabled"))
+		net.WriteString("No Target ".. (checkTarget and "Disabled" or "Enabled"))
 		net.Send( target )
 
 	end
