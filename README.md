@@ -10,7 +10,7 @@ Just simply install this tool!
 
 Chat Commands
 
-^ - Targets yourself ( or just !notarget).
+^ - Targets yourself ( or just !notarget)
 @ - Target those infront of you
 
 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
