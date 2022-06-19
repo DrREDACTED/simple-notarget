@@ -10,15 +10,15 @@ Just simply install this tool!
 
 Chat Commands
 
-^ - Targets yourself ( or just !notarget)
-@ - Target those infront of you
+- ^ - Targets yourself ( or just !notarget)
+- @ - Target those infront of you
 
 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 
 ConVars
 
-NoTargetEnabled - 0 to Disable, 1 to Enable (Default Enabled)
-NoTargetWhitelist - 0 to Disable, 1 to Enable (Default Disabled)
+- NoTargetEnabled - 0 to Disable, 1 to Enable (Default Enabled)
+- NoTargetWhitelist - 0 to Disable, 1 to Enable (Default Disabled)
 
 NOTE:
 
