@@ -12,6 +12,7 @@ Chat Commands
 
 - ^ - Targets yourself ( or just !notarget)
 - @ - Target those infront of you
+- {playername} - Targets the name of the player (doesn't have to be the whole name!)
 
 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 
